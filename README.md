@@ -1,6 +1,6 @@
 # frakes
 
-![Those Eyes](https://raw.githubusercontent.com/jmaroeder/frakes/master/eyes.jpg)
+<img src="https://raw.githubusercontent.com/jmaroeder/frakes/master/eyes.jpg" width="200" alt="Those Eyes">
 
 **frakes** is a set of completions for the `rake` command-line tool for the fish shell.
 
